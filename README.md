@@ -1,2 +1,5 @@
 # hello-world
-Just a tutorial repository.
+
+Hello!
+
+My name is Alex Uzunov and I am revising the usage of GitHub!
